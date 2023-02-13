@@ -13,6 +13,8 @@ thesis/
 datasets/*
 !datasets/generated/
 datasets/generated/*
+!datasets/samples/
+!datasets/samples/*
 !datasets/generated/base_dataset.zip
 
 # needed for dataset pipeline
