@@ -1,0 +1,14 @@
+# only track pretrained models
+models/*
+!models/unet_256x256_pretrained.h5
+
+# ignore nested repos
+code/*
+!code/fetch-repos.sh
+
+# don't make thesis publicly available
+thesis/
+
+# provide zipped version of base dataset
+datasets/*
+!datasets/generated.zip
