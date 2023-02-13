@@ -12,3 +12,8 @@ thesis/
 # provide zipped version of base dataset
 datasets/*
 !datasets/generated.zip
+
+# also provide pre-generated abc-files
+!datasets/generated/
+datasets/generated/*
+!datasets/generated/abc/

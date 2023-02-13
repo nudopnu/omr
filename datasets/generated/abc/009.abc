@@ -1,0 +1,24 @@
+X:1
+%%score { V1 V2 }
+V: V1 clef=treble
+V: V2 clef=bass
+M:C
+,[K:Cb Ionian]
+[V:V1]
+ F2 z2 [AC'E']-2>| [AC'E']2| ([^BD'F'A']2 F'')1/2 D'1/2[EGBD']1/2 z1/2 ^C''2 [G'B'D'F']1/2 [B'D'F'A']1/2 _G'| z8| [B'D''F'A']4 !<(!B,2 z1/2 [E'GB]1/2[C'EGB]1/8 _C1/8!<)!B1/4D''1/4 [G'B'D'F']1/4|
+[V:V2]
+ A,2 z2 (3)E,2G,,2B,, 2| C2 [C,,E,,G,,B,,]1/2 z1/2 [B,D,F,A,]1/2 [C,E,G,,B,,]1/2 G,2 (B,,1/2 D)1/2 [C,E,,G,,B,,]| [A,CEG]8| z4 E,,,2 [E,,G,,B,,D,]1/2 [C,E,,G,,B,,]1/2 F,1/8 [D,,F,,A,,]1/8 [B,,D,F,A,]1/4 C1/4 F,,,1/4|
+,[K:C# Ionian]
+[V:V1]
+[EGBD']2([GBD'] G')1/2 C''1/4 z1/4[CEG]1/2!>(!A,1/2 B' [D'FAC'] [D'FAC']| z4 [=GBD']2 __G'2| !>)!C' [B'D'F'A'] ^^D'2 G' [AC'E'G'] [E'G=BD'] [EGB]1/4 G1/4 z1/2|
+[V:V2]
+ D,,2 G, [A,,C,E,G,]1/2 [G,B,,D,F,]1/4 C,,,1/4 z1/2 [F,A,,C,E,]1/2 [F,,A,,C,] D2| z4 F2 [F,A,C,E,]2| [A,C,E,] G, A2 B,, [D,,F,,A,,] ([E,,G,,B,,D,] F)1/4 z1/4 [G,B,D,F,]1/2|
+[V:V1]
+ ^^D1/2 C1/2 z [F'A'C'=E']1/2 [B'__D'F'A']1/2 G, [E'G'BD'] ([FAC'] E,)2|: B'1/2 F1/8 A'1/8=G1/4 [BD'F'] [E'GBD'] z [B'D'F']2[B'D'F'A']2:: [A'C'E']2 [FAC']2 C1/2 [BD'F'A']1/4 G''1/8 z1/8F'1/2 [FAC'E']1/2 G'2 :|
+,[M: 4/4][K:C Ionian]
+[V:V2]
+ G,,,1/2 (B,,1/2 [B,,D,F,A,]) [A,,C,E,G,]1/2 z1/2 E,, D,,, [B,D,F,] [E,,G,,B,,]2|:  E1/2 D,,,1/8 z1/8 B,1/4 C,,, [F,A,,C,] [C,,E,,G,,] [D,F,,A,,C,]2 [E,G,,B,,D,]2:: A,,,2 F2 F,1/2 [B,D,F,A,]1/4 [B,DF,A,]1/8 [D,,F,,A,,]1/8 F,,,1/2 z1/2 [F,A,,C,]2 :|
+[V:V1]
+ ^^F,2_F'2 [BD'F']2 [D'F'AC']1/4 z1/4 G''1/2 C,1/2 [F'AC']1/4 [CEG]1/4|[G'BD'F'] [F'AC'E']1/2 G,1/2 C2 z4|(B'1/2 [!mf!FAC'E'])1/2 [F'A'C'E'] !ppp!E,1/4 [FAC']1/4 z1/2[G'B'__D'F'] _F'2 A,2|]
+[V:V2]
+ G,,2 [B,,D,F,A,]2 A,,2 z1/4 [E,,G,,B,,D,]1/4 [E,G,B,,D,]1/2 D1/2 [B,,D,F,]1/4 B,1/4| [G,B,D,F,] ([F,,A,,C,]1/2 F,,)1/2 z2 C,4| [E,,G,,B,,]1/2 F,,,1/2 [G,,B,,D,] z1/4 [D,F,,A,,C,]1/4 E,,1/2 [A,C,E,] B,,,2 F2|]
