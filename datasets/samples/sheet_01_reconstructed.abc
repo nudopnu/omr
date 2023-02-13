@@ -1,0 +1,26 @@
+X:1
+K:D
+%%score { V1 V2 }
+V: V1 clef=treble
+V: V2 clef=bass
+M:none
+,[V:V1]
+ z8 z8 z8 z8
+,[V:V2]
+ D,A,EG A,,E,A,C B,,F,B,E F,,C,F,A, D,G,B, C,,A,,D,F, D,G,B, A,,E,A,C
+,[V:V1]
+ F'4 E'4 D'4 B4 A4 B4 C'4
+,[V:V2]
+ D,A,EG A,,E,A,D B,,F,B,E F,,C,F,A, D,G,B, C,,A,,D,F, G,,D,G,B, A,,E,A,C
+,[V:V1]
+ [AF'D']4 [BC'E']4 [D'BF]4 [AC']4 [BCG]4 [GD]4 [GBC]4 [C'A]4 E4
+,[V:V2]
+ D,A,EG A,,E,A,C B,,F,B,E F,,C,F,A, D,G,B, C,,A,,D,F, G,,D,G,B, A,,E,A,C
+,[V:V1]
+ D'2 F'2 A'2 A'2 F'2 D'2 F'2 E'2 D'2 B2 D'2 F'2 A'2 C''2 A'2 A'2
+,[V:V2]
+ D,A,EG A,,E,A,D B,,F,B,D F,,C,F,A, G,,D,G,B, C,,A,,D,F, G,,D,G,B, A,,E,A,C
+,[V:V1]
+ [F'D']2 F'2 [E'A']2 G'2 [F'D']2 D'2 [F'C']2 E'2 [D'B]2 B2 [D'A]2 F'2 [BG']2 C''2 [B'C']2 G'2
+,[V:V2]
+ D,A,EG A,,E,A,D B,,F,B,E E,,C,F,A, G,,D,G,B, C,,A,,D,F, G,,D,G,B, A,,E,A,C

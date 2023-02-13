@@ -1,0 +1,26 @@
+X:1
+K: Bb
+%%score { V1 V2 }
+V: V1 clef=treble
+V: V2 clef=bass
+M:none
+,[V:V1]
+ D'E' D'E' D'E' C'D' C'D' C'D' BC' BC' BC' AGF F2 F2 z2 z2 [EA,F]2 [EDB,]4 x
+,[V:V2]
+ BC' BC' BC' AB AB AB GA GA GA FEE E2 B,F BD' z2 z8 x2
+,[V:V1]
+ E2 G2 B2 z2 [ED'BG]2 z2 [EGBD']2 [EC'F]2 [DBF]2 [EFA]2 B4 z2 G2 BD' [G'B]4 [BG']2 [BG']2 [BF']2 [BE']2 z2 [GE']4 x4
+,[V:V2]
+ C,,2 [EG,B,D]2 z2 [D,,D,]4 G,,2 [DG,]4 G,2 [DA,]4 C,2 [CFG,]4 G,,2 [B,F]4 B,,2 A,4 x2
+,[V:V1]
+ z2 A2 [D'F]2 F'2 z2 [D'A']4 [BD'G']2 [D'F'B]2 [D'E'B]2 [D'F'B]2 z2 [D'AG']4 [AD'F']2 [E'A]4 [AD']2 [C'FE]2 [EBF]2 [FEC']2 D'2 C'2 G2 A2 D2 GA x4
+,[V:V2]
+ F,2 [A,F,]4 E,2 [DG]4 A,,2 [B,G,]4 D,2 [F,D]4 C,2 [F,D]4 B,,2 [A,F,]4 A,,2 E,4 D,2 A,4 x2
+,[V:V1]
+ [EE][AF][C'A] [GB]2 [BG]2 [AF]2 G4 z2 [AC']2 [BG]2 [AF][GE] [GE][FD] [CE]2 [A,D]4 [A,D]4 z8
+,[V:V2]
+ [A,D,]4 [B,D,]4 [E,A,D]4 G,,2 [DB,G,]2 [DG,B,]2 D,,2 [DB,G,]2 [B,DG,]2 x2
+,[V:V1]
+ z8 E2 G2 [BF]2 [C'G]4 D'2 C'2 B2 A2 B4 G2 B2 D'2 [G'B]4 [BG']2 x2
+,[V:V2]
+ G,,2 [B,DG,]2 [B,DG,]2 D,,2 [DF,A,]2 [A,F,E]2 C,,2 [G,EDB,]2 [DG,EB,]2 D,,2 [CF,EF]2 [CF,FE]2 G,,2 [B,G,FD]2 [B,DG,F]2 G,,2 [B,G,FD]2 [DG,B,F]2 C,,2 [B,CEG]2 [CB,EG]2
